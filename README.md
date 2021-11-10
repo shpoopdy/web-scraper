@@ -1,5 +1,6 @@
 # web-scraper
-Web scraper I built for CS 232 Python. After being prompted for what job you're looking for and what location it will return an excel sheet with the jobs listed.
+CS 232 - Python Programming - Spring 2021  
+*Python Version 3.6*
 
 # Job Search Using Python
 A web scraping script that gets jobs from Monster.com and stores it in a csv file.
